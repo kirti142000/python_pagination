@@ -1,0 +1,11 @@
+body{
+    justify-content: center;
+    background-color: rgb(182, 235, 217);
+}
+h1{
+    justify-content: center;
+    margin-left: 50%;
+}
+.step-links{
+    margin-left: 50%;
+}
